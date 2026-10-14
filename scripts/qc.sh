@@ -5,4 +5,6 @@ fastp \
 -I sample_R2.fastq.gq \
 -o sample_R1_trim.fastq.gz \
 -O sample_R2_trim.fastq.gz \
---length_required 30
+--length_required 30 \
+# task 2 is add a new quality threshold !
+
